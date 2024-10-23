@@ -34,6 +34,7 @@ public class Prodotto {
 	public String getMarcaProdotto() {
 		return marcaProdotto;
 	}
+	
 
 	//PREZZO PRODOTTO
 	public double getPrezzoProdotto() {
